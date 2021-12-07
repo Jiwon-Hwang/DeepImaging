@@ -2,5 +2,5 @@
 	path = CT-Skin-Segmentation
 	url = https://github.com/Jiwon-Hwang/CT-Skin-Segmentation.git
 [submodule "Radiomics-Feature-Extraction"]
-	path = Radiomics-Feature-Extractio
+	path = Radiomics-Feature-Extraction
 	url = https://github.com/Jiwon-Hwang/Radiomics-Feature-Extraction.git
