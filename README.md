@@ -10,9 +10,9 @@ project in deep imaging lab (main repository)
 * [wiki 4](https://github.com/Jiwon-Hwang/DeepImaging/wiki/4.-Data-Classification-and-Deep-Learning) : Data Classification and Deep Learning
   
 ## 2. Registration
-* [wiki](https://github.com/Jiwon-Hwang/DeepImaging/wiki/5.-Registration-(%EC%A0%95%ED%95%A9))  
+* [wiki](https://github.com/Jiwon-Hwang/DeepImaging/wiki/5.-Registration-(%EC%A0%95%ED%95%A9)) : Registration  
   
 ## 3. Radiomics Feature Extraction
 * [repo](https://github.com/Jiwon-Hwang/Radiomics-Feature-Extraction)  
-* [wiki](https://github.com/Jiwon-Hwang/DeepImaging/wiki/6.-Radiogenomics-(Semi-Automatic-Segmentation))  
+* [wiki](https://github.com/Jiwon-Hwang/DeepImaging/wiki/6.-Radiogenomics-(Semi-Automatic-Segmentation)) : Radiogenomics  
   
